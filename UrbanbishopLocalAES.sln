@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrbanbishopLocalAES", "UrbanbishopLocalAES\UrbanbishopLocalAES.csproj", "{DC4D47E5-F5E7-431F-90D3-0B1F17185E72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helper", "helper\helper.csproj", "{005DAC43-7D92-4C3B-BE29-7A69FE69935E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC4D47E5-F5E7-431F-90D3-0B1F17185E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4D47E5-F5E7-431F-90D3-0B1F17185E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4D47E5-F5E7-431F-90D3-0B1F17185E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4D47E5-F5E7-431F-90D3-0B1F17185E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{005DAC43-7D92-4C3B-BE29-7A69FE69935E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005DAC43-7D92-4C3B-BE29-7A69FE69935E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005DAC43-7D92-4C3B-BE29-7A69FE69935E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005DAC43-7D92-4C3B-BE29-7A69FE69935E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3194AA08-8DD7-42AB-8673-D32CE5BB9DE6}
+	EndGlobalSection
+EndGlobal
